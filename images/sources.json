@@ -1,0 +1,57 @@
+{
+  "images": [
+    {
+      "file": "housebanner-1.webp",
+      "url": "https://lucianamantel.com.br/wp-content/uploads/2024/08/housebannerluciana-1365x2048.webp"
+    },
+    {
+      "file": "housebanner-2.webp",
+      "url": "https://lucianamantel.com.br/wp-content/uploads/2024/08/housebanner2lucianamantel-1365x2048.webp"
+    },
+    {
+      "file": "pool.webp",
+      "url": "https://lucianamantel.com.br/wp-content/uploads/2024/08/Piscina-retangular-1.2.webp"
+    },
+    {
+      "file": "facade.webp",
+      "url": "https://lucianamantel.com.br/wp-content/uploads/2024/08/Fachada-1.4-1536x1024.webp"
+    },
+    {
+      "file": "reference-1.jpg",
+      "url": "https://lucianamantel.com.br/wp-content/uploads/2025/01/1.jpg"
+    },
+    {
+      "file": "reference-2.jpg",
+      "url": "https://lucianamantel.com.br/wp-content/uploads/2025/01/2.jpg"
+    },
+    {
+      "file": "reference-3.jpg",
+      "url": "https://lucianamantel.com.br/wp-content/uploads/2025/01/3.jpg"
+    },
+    {
+      "file": "reference-4.jpg",
+      "url": "https://lucianamantel.com.br/wp-content/uploads/2025/01/4.jpg"
+    },
+    {
+      "file": "reference-5.jpg",
+      "url": "https://lucianamantel.com.br/wp-content/uploads/2025/01/5.jpg"
+    },
+    {
+      "file": "reference-6.jpg",
+      "url": "https://lucianamantel.com.br/wp-content/uploads/2025/01/6.jpg"
+    },
+    {
+      "file": "reference-7.jpg",
+      "url": "https://lucianamantel.com.br/wp-content/uploads/2025/01/7.jpg"
+    },
+    {
+      "file": "reference-8.jpg",
+      "url": "https://lucianamantel.com.br/wp-content/uploads/2025/01/8.jpg"
+    },
+    {
+      "file": "reference-7-1.jpg",
+      "url": "https://lucianamantel.com.br/wp-content/uploads/2025/01/7-1.jpg"
+    }
+  ],
+  "fontSource": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Manrope:wght@400;500;600;700&display=swap"
+}
